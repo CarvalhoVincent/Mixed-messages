@@ -7,7 +7,7 @@ const message5 = '“When you change your thoughts, remember to also change your
 const message6 = '“It is only when we take chances, when our lives improve. The initial and the most difficult risk that we need to take is to become honest. —Walter Anderson';
 
 const random = Math.floor(Math.random() * 7);
-//console.log(random);
+console.log(random);
 var message = "";
 
 switch (random) {
